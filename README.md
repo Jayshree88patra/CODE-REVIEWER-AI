@@ -20,3 +20,5 @@ It’s a great project to learn **Full-Stack Development with AI integration**.
 #   **"AI-Powered Code Review in Action 🚀"**
 
 <img width="1882" height="845" alt="image" src="https://github.com/user-attachments/assets/f5fe35dd-bfe4-40d1-83fc-d8f696a5b5e1" />
+<img width="1885" height="825" alt="image" src="https://github.com/user-attachments/assets/d737c5b7-3478-4271-b3df-878eb83978fe" />
+
